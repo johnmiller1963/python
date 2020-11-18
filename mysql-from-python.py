@@ -1,7 +1,7 @@
 import os
 import pymysql
 
-username = "C9_USER"
+username = "root"
 
 # Connect to the database
 connection = pymysql.connect(host='localhost',
